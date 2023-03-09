@@ -1,4 +1,4 @@
 # EDIT
 
 
-[![dni.png](https://i.postimg.cc/yN0ZYM4n/dni.png)](https://postimg.cc/WDb35f4J)
+[![dni.png](https://i.postimg.cc/W3Xtdj9m/dni.png)](https://postimg.cc/JDHRgwCt)
