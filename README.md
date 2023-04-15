@@ -6,7 +6,9 @@
 En el DNI el IDARG se compone de:
 
 1.[ID] 2.[ESP] 3.[12345678Z] 4.[3] 5.[<<<<<<<<<<<<<<<]
+
 6.[741015] 7.[0] 8.[M] 9.[090322] 10.[6] 11.[ESP] 12.[<<<<<<<<<<<] 13.[4]
+
 14.[DE<TAL<Y<CUAL<<FULANITO<<<<<<<]
 
 1. Tipo de documento
