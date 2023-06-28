@@ -1,0 +1,11 @@
+1: Eliminar texto del medio
+> https://www.watermarkremover.io/upload
+si lo hacemos manualmente con photoshop o photopea.com queda mejor
+
+2: Convertir la foto a blanco y negro 
+> https://blackandwhite.imageonline.co/es/
+
+3: Una vez convertida a blanco y negro, usamos una herramienta de "MyHeritage.es"
+para subirle la calidad y darle color.
+> https://www.myheritage.es/photo-enhancer/
+Suben la foto, la mejora y al final nos da la opcion de "COLOREAR" y descargar.
